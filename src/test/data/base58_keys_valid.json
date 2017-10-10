@@ -117,7 +117,7 @@
         }
     ], 
     [
-        "T4rLdfaJrBXC3uemQQoi1nAhXSAFwepDX4Ahjw8EjVP27Avmjzo4", 
+        "T4rLdfaJrBXCI3uemQQoi1nAhXSAFwepDX4Ahjw8EjVP27Avmjzo4", 
         "35b0165377348a7ba55184f5a30834e7b5ba20dcb3ed4c7bb330e1dc631b050f", 
         {
             "isCompressed": true, 
@@ -144,7 +144,7 @@
         }
     ], 
     [
-        "LdaHb6WXgyf38F96JweN9XNWKJS91iBXCF", 
+        "LdaHb6WXgyf38F96JweN9XNWKJS91iBXCIF", 
         "c94ab72be12aa1a05f1af875f7250333e5d27aa2", 
         {
             "addrType": "pubkey", 
